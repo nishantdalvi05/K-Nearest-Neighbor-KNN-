@@ -1,6 +1,6 @@
 # K-Nearest-Neighbor-KNN
 
-Prepare a model for glass classification using KNN
+Q1. Prepare a model for glass classification using KNN
 
 Data Description:
 
@@ -35,4 +35,4 @@ Type: Type of glass: (class attribute)
 
 
 
-Implement a KNN model to classify the animals in to categorie
+Q2. Implement a KNN model to classify the animals in to categorie
